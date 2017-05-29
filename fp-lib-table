@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name agg)(type KiCad)(uri C:\Users\Aki\Documents\kicad\adamgreig\agg-kicad\agg.pretty)(options "")(descr ""))
+  (lib (name mouse_led)(type KiCad)(uri "$(KIPRJMOD)\\mouse_led.pretty")(options "")(descr ""))
+  (lib (name common-ICs)(type KiCad)(uri C:\Users\Aki\Documents\kicad\Poofjunior\kicad-libraries\common-ICs.pretty)(options "")(descr ""))
+  (lib (name myfootprint)(type KiCad)(uri "$(KIPRJMOD)\\myfootprint.pretty")(options "")(descr ""))
+  (lib (name Connectors_JST)(type KiCad)(uri C:\Users\Aki\Documents\kicad\kicad_foot\Connectors_JST.pretty)(options "")(descr ""))
+)
